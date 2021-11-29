@@ -1,2 +1,2 @@
 # hadoop
-hadoop partice
+Some document about building Hadoop & Spark.
